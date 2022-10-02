@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+    <string name="cart_icon">Cart</string>
+    <string name="shop_name">La Fleur</string>
+    <string name="filter">Filter</string>
+    <string name="product_image">ProductImage</string>
+    <string name="product_price">ProductPrice</string>
+    <string name="cart_add">CartAddButton</string>
+    <string name="product_desc">Шеффлера восьмилистная (Schefflera octophylla) очень эффектна, на ее поникающих черешках расположены 8-12 листочков удлиненно-ланцетной формы, с заостренной верхушкой и светлыми жилками</string>
+</resources>
